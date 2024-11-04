@@ -45,6 +45,9 @@ nav {
   display: flex;
   justify-content: space-between;
 }
+.hero img{
+  max-width: 650px;
+}
 .hero-text {
   display: flex;
   flex-direction: column;
